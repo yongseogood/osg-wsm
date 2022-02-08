@@ -1,0 +1,3 @@
+/home/yong/webtool/osg-wsm/build/CMakeFiles/osgCMakeExample.dir
+/home/yong/webtool/osg-wsm/build/CMakeFiles/edit_cache.dir
+/home/yong/webtool/osg-wsm/build/CMakeFiles/rebuild_cache.dir
